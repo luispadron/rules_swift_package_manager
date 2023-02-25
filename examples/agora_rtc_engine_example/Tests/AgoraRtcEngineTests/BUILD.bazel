@@ -1,0 +1,14 @@
+load("@build_bazel_rules_swift//swift:swift.bzl", "swift_test")
+
+swift_test(
+    name = "AgoraRtcEngineTests",
+    srcs = ["InitTest.swift"],
+    module_name = "AgoraRtcEngineTests",
+    deps = [
+        "@swiftpkg_agorartcengine_ios//:remote_archive_AgoraDav1d.xcframework.zip_AgoraDav1d",
+        "@swiftpkg_agorartcengine_ios//:remote_archive_AgoraRtcKit.xcframework.zip_AgoraRtcKit",
+        "@swiftpkg_agorartcengine_ios//:remote_archive_AgoraSoundTouch.xcframework.zip_AgoraSoundTouch",
+        "@swiftpkg_agorartcengine_ios//:remote_archive_Agorafdkaac.xcframework.zip_Agorafdkaac",
+        "@swiftpkg_agorartcengine_ios//:remote_archive_Agoraffmpeg.xcframework.zip_Agoraffmpeg",
+    ],
+)

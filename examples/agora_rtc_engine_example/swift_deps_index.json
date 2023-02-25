@@ -1,0 +1,269 @@
+{
+  "direct_dep_identities": [
+    "agorartcengine_ios"
+  ],
+  "modules": [
+    {
+      "name": "AgoraAiEchoCancellationExtension",
+      "c99name": "AgoraAiEchoCancellationExtension",
+      "src_type": "binary",
+      "label": "@swiftpkg_agorartcengine_ios//:remote_archive_AgoraAiEchoCancellationExtension.xcframework.zip_AgoraAiEchoCancellationExtension",
+      "package_identity": "agorartcengine_ios",
+      "product_memberships": [
+        "AIAEC"
+      ]
+    },
+    {
+      "name": "AgoraAiNoiseSuppressionExtension",
+      "c99name": "AgoraAiNoiseSuppressionExtension",
+      "src_type": "binary",
+      "label": "@swiftpkg_agorartcengine_ios//:remote_archive_AgoraAiNoiseSuppressionExtension.xcframework.zip_AgoraAiNoiseSuppressionExtension",
+      "package_identity": "agorartcengine_ios",
+      "product_memberships": [
+        "AINS"
+      ]
+    },
+    {
+      "name": "AgoraAudioBeautyExtension",
+      "c99name": "AgoraAudioBeautyExtension",
+      "src_type": "binary",
+      "label": "@swiftpkg_agorartcengine_ios//:remote_archive_AgoraAudioBeautyExtension.xcframework.zip_AgoraAudioBeautyExtension",
+      "package_identity": "agorartcengine_ios",
+      "product_memberships": [
+        "AudioBeauty"
+      ]
+    },
+    {
+      "name": "AgoraClearVisionExtension",
+      "c99name": "AgoraClearVisionExtension",
+      "src_type": "binary",
+      "label": "@swiftpkg_agorartcengine_ios//:remote_archive_AgoraClearVisionExtension.xcframework.zip_AgoraClearVisionExtension",
+      "package_identity": "agorartcengine_ios",
+      "product_memberships": [
+        "ClearVision"
+      ]
+    },
+    {
+      "name": "AgoraContentInspectExtension",
+      "c99name": "AgoraContentInspectExtension",
+      "src_type": "binary",
+      "label": "@swiftpkg_agorartcengine_ios//:remote_archive_AgoraContentInspectExtension.xcframework.zip_AgoraContentInspectExtension",
+      "package_identity": "agorartcengine_ios",
+      "product_memberships": [
+        "ContentInspect"
+      ]
+    },
+    {
+      "name": "AgoraDav1d",
+      "c99name": "AgoraDav1d",
+      "src_type": "binary",
+      "label": "@swiftpkg_agorartcengine_ios//:remote_archive_AgoraDav1d.xcframework.zip_AgoraDav1d",
+      "package_identity": "agorartcengine_ios",
+      "product_memberships": [
+        "RtcBasic"
+      ]
+    },
+    {
+      "name": "AgoraDrmLoaderExtension",
+      "c99name": "AgoraDrmLoaderExtension",
+      "src_type": "binary",
+      "label": "@swiftpkg_agorartcengine_ios//:remote_archive_AgoraDrmLoaderExtension.xcframework.zip_AgoraDrmLoaderExtension",
+      "package_identity": "agorartcengine_ios",
+      "product_memberships": [
+        "DRM"
+      ]
+    },
+    {
+      "name": "AgoraFaceDetectionExtension",
+      "c99name": "AgoraFaceDetectionExtension",
+      "src_type": "binary",
+      "label": "@swiftpkg_agorartcengine_ios//:remote_archive_AgoraFaceDetectionExtension.xcframework.zip_AgoraFaceDetectionExtension",
+      "package_identity": "agorartcengine_ios",
+      "product_memberships": [
+        "FaceDetection"
+      ]
+    },
+    {
+      "name": "AgoraReplayKitExtension",
+      "c99name": "AgoraReplayKitExtension",
+      "src_type": "binary",
+      "label": "@swiftpkg_agorartcengine_ios//:remote_archive_AgoraReplayKitExtension.xcframework.zip_AgoraReplayKitExtension",
+      "package_identity": "agorartcengine_ios",
+      "product_memberships": [
+        "ReplayKit"
+      ]
+    },
+    {
+      "name": "AgoraRtcKit",
+      "c99name": "AgoraRtcKit",
+      "src_type": "binary",
+      "label": "@swiftpkg_agorartcengine_ios//:remote_archive_AgoraRtcKit.xcframework.zip_AgoraRtcKit",
+      "package_identity": "agorartcengine_ios",
+      "product_memberships": [
+        "RtcBasic"
+      ]
+    },
+    {
+      "name": "AgoraSoundTouch",
+      "c99name": "AgoraSoundTouch",
+      "src_type": "binary",
+      "label": "@swiftpkg_agorartcengine_ios//:remote_archive_AgoraSoundTouch.xcframework.zip_AgoraSoundTouch",
+      "package_identity": "agorartcengine_ios",
+      "product_memberships": [
+        "RtcBasic"
+      ]
+    },
+    {
+      "name": "AgoraSpatialAudioExtension",
+      "c99name": "AgoraSpatialAudioExtension",
+      "src_type": "binary",
+      "label": "@swiftpkg_agorartcengine_ios//:remote_archive_AgoraSpatialAudioExtension.xcframework.zip_AgoraSpatialAudioExtension",
+      "package_identity": "agorartcengine_ios",
+      "product_memberships": [
+        "SpatialAudio"
+      ]
+    },
+    {
+      "name": "AgoraVideoQualityAnalyzerExtension",
+      "c99name": "AgoraVideoQualityAnalyzerExtension",
+      "src_type": "binary",
+      "label": "@swiftpkg_agorartcengine_ios//:remote_archive_AgoraVideoQualityAnalyzerExtension.xcframework.zip_AgoraVideoQualityAnalyzerExtension",
+      "package_identity": "agorartcengine_ios",
+      "product_memberships": [
+        "VQA"
+      ]
+    },
+    {
+      "name": "AgoraVideoSegmentationExtension",
+      "c99name": "AgoraVideoSegmentationExtension",
+      "src_type": "binary",
+      "label": "@swiftpkg_agorartcengine_ios//:remote_archive_AgoraVideoSegmentationExtension.xcframework.zip_AgoraVideoSegmentationExtension",
+      "package_identity": "agorartcengine_ios",
+      "product_memberships": [
+        "VirtualBackground"
+      ]
+    },
+    {
+      "name": "Agorafdkaac",
+      "c99name": "Agorafdkaac",
+      "src_type": "binary",
+      "label": "@swiftpkg_agorartcengine_ios//:remote_archive_Agorafdkaac.xcframework.zip_Agorafdkaac",
+      "package_identity": "agorartcengine_ios",
+      "product_memberships": [
+        "RtcBasic"
+      ]
+    },
+    {
+      "name": "Agoraffmpeg",
+      "c99name": "Agoraffmpeg",
+      "src_type": "binary",
+      "label": "@swiftpkg_agorartcengine_ios//:remote_archive_Agoraffmpeg.xcframework.zip_Agoraffmpeg",
+      "package_identity": "agorartcengine_ios",
+      "product_memberships": [
+        "RtcBasic"
+      ]
+    }
+  ],
+  "products": [
+    {
+      "identity": "agorartcengine_ios",
+      "name": "AIAEC",
+      "type": "library",
+      "target_labels": [
+        "@swiftpkg_agorartcengine_ios//:remote_archive_AgoraAiEchoCancellationExtension.xcframework.zip_AgoraAiEchoCancellationExtension"
+      ]
+    },
+    {
+      "identity": "agorartcengine_ios",
+      "name": "AINS",
+      "type": "library",
+      "target_labels": [
+        "@swiftpkg_agorartcengine_ios//:remote_archive_AgoraAiNoiseSuppressionExtension.xcframework.zip_AgoraAiNoiseSuppressionExtension"
+      ]
+    },
+    {
+      "identity": "agorartcengine_ios",
+      "name": "AudioBeauty",
+      "type": "library",
+      "target_labels": [
+        "@swiftpkg_agorartcengine_ios//:remote_archive_AgoraAudioBeautyExtension.xcframework.zip_AgoraAudioBeautyExtension"
+      ]
+    },
+    {
+      "identity": "agorartcengine_ios",
+      "name": "ClearVision",
+      "type": "library",
+      "target_labels": [
+        "@swiftpkg_agorartcengine_ios//:remote_archive_AgoraClearVisionExtension.xcframework.zip_AgoraClearVisionExtension"
+      ]
+    },
+    {
+      "identity": "agorartcengine_ios",
+      "name": "ContentInspect",
+      "type": "library",
+      "target_labels": [
+        "@swiftpkg_agorartcengine_ios//:remote_archive_AgoraContentInspectExtension.xcframework.zip_AgoraContentInspectExtension"
+      ]
+    },
+    {
+      "identity": "agorartcengine_ios",
+      "name": "DRM",
+      "type": "library",
+      "target_labels": [
+        "@swiftpkg_agorartcengine_ios//:remote_archive_AgoraDrmLoaderExtension.xcframework.zip_AgoraDrmLoaderExtension"
+      ]
+    },
+    {
+      "identity": "agorartcengine_ios",
+      "name": "FaceDetection",
+      "type": "library",
+      "target_labels": [
+        "@swiftpkg_agorartcengine_ios//:remote_archive_AgoraFaceDetectionExtension.xcframework.zip_AgoraFaceDetectionExtension"
+      ]
+    },
+    {
+      "identity": "agorartcengine_ios",
+      "name": "ReplayKit",
+      "type": "library",
+      "target_labels": [
+        "@swiftpkg_agorartcengine_ios//:remote_archive_AgoraReplayKitExtension.xcframework.zip_AgoraReplayKitExtension"
+      ]
+    },
+    {
+      "identity": "agorartcengine_ios",
+      "name": "RtcBasic",
+      "type": "library",
+      "target_labels": [
+        "@swiftpkg_agorartcengine_ios//:remote_archive_AgoraRtcKit.xcframework.zip_AgoraRtcKit",
+        "@swiftpkg_agorartcengine_ios//:remote_archive_AgoraDav1d.xcframework.zip_AgoraDav1d",
+        "@swiftpkg_agorartcengine_ios//:remote_archive_Agorafdkaac.xcframework.zip_Agorafdkaac",
+        "@swiftpkg_agorartcengine_ios//:remote_archive_Agoraffmpeg.xcframework.zip_Agoraffmpeg",
+        "@swiftpkg_agorartcengine_ios//:remote_archive_AgoraSoundTouch.xcframework.zip_AgoraSoundTouch"
+      ]
+    },
+    {
+      "identity": "agorartcengine_ios",
+      "name": "SpatialAudio",
+      "type": "library",
+      "target_labels": [
+        "@swiftpkg_agorartcengine_ios//:remote_archive_AgoraSpatialAudioExtension.xcframework.zip_AgoraSpatialAudioExtension"
+      ]
+    },
+    {
+      "identity": "agorartcengine_ios",
+      "name": "VQA",
+      "type": "library",
+      "target_labels": [
+        "@swiftpkg_agorartcengine_ios//:remote_archive_AgoraVideoQualityAnalyzerExtension.xcframework.zip_AgoraVideoQualityAnalyzerExtension"
+      ]
+    },
+    {
+      "identity": "agorartcengine_ios",
+      "name": "VirtualBackground",
+      "type": "library",
+      "target_labels": [
+        "@swiftpkg_agorartcengine_ios//:remote_archive_AgoraVideoSegmentationExtension.xcframework.zip_AgoraVideoSegmentationExtension"
+      ]
+    }
+  ]
+}
