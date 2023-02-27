@@ -8,6 +8,6 @@ class InitTest: XCTestCase {
         // Pass in your App ID here.
         config.appId = appID
         // Use AgoraRtcEngineDelegate for the following delegate parameter.
-        agoraEngine = AgoraRtcEngineKit.sharedEngine(with: config, delegate: nil)
+        let agoraEngine = AgoraRtcEngineKit.sharedEngine(with: config, delegate: nil)
     }
 }
