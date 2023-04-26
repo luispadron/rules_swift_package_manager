@@ -3,7 +3,7 @@ module github.com/cgrindel/rules_swift_package_manager
 go 1.18
 
 require (
-	github.com/bazelbuild/bazel-gazelle v0.29.0
+	github.com/bazelbuild/bazel-gazelle v0.30.0
 	github.com/bazelbuild/buildtools v0.0.0-20230330150744-7ca77e139856
 	github.com/creasty/defaults v1.7.0
 	github.com/deckarep/golang-set/v2 v2.3.0
@@ -15,7 +15,7 @@ require (
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
-	golang.org/x/mod v0.7.0 // indirect
-	golang.org/x/sys v0.4.0 // indirect
-	golang.org/x/tools v0.5.0 // indirect
+	golang.org/x/mod v0.9.0 // indirect
+	golang.org/x/sys v0.6.0 // indirect
+	golang.org/x/tools v0.7.0 // indirect
 )
